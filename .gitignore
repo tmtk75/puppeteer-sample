@@ -7,3 +7,6 @@ yarn-error.log
 
 #
 example.png
+
+#
+/src/*.js
