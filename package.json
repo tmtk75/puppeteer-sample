@@ -5,6 +5,6 @@
     "typescript": "^2.8.3"
   },
   "scripts": {
-    "build:w": "tsc --watch --project src"
+    "build:w": "tsc --watch --project ."
   }
 }
