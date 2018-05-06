@@ -1,12 +1,13 @@
 #
 .*.swp
-node_modules
+/node_modules
 
 # yarn
-yarn-error.log
-
+/yarn-error.log
+/
 #
-example.png
+/example.png
+/hn.pdf
 
 #
 /src/*.js
